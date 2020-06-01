@@ -10,4 +10,11 @@ Style | Syntax | Output
 Bold | \** \** or \__ \__ | **Bold**
 Italic | \* \* or \_ \_ | *Italic*
 Strikethrough | \~~ \~~ | ~~Strikethrough~~
-Header 1-6 | \# Header - \###### Header| # Header - ###### Header
+Header 1-6 | \# Header - \###### Header| (See below)
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
