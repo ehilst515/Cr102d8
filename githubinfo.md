@@ -1,5 +1,5 @@
 # What to know about GitHub
-###### GitHub is a website where code files can be stored and revised.
+##### GitHub is a website where code files can be stored and revised.
 
 ## GitHub Pages
 **Pages** on GitHub are hosted on their servers and use thier databases. It makes it easy to create websites that anyone can access this way, and publish *markdowns* and other code files.
