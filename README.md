@@ -1,6 +1,7 @@
 # Table of Contents
 - [About Me](/aboutme.md)
 - [Growth Mindset](/growthms.md)
+- [Learn about GitHub](/githubinfo.md)
 
 
 # About Me
