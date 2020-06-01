@@ -1,6 +1,6 @@
 # Table of Contents
 - [About Me](aboutme.md)
-- [Growth Mindset](gowthms.md)
+- [Growth Mindset](growthms.md)
 
 
 # About Me
