@@ -10,4 +10,13 @@ We first need to clone projects to copy what’s on GitHub onto a local computer
 Answer the true or false questions:
 
 1. Changes are staged before they're moved from the working directory to the repository
+
+True () False ()
+
+2. A message must be included when commiting changes
+
+True () False ()
+
+3. Changes can be made without pusing to the repo
+
 True () False ()
