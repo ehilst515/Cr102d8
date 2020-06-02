@@ -1,0 +1,2 @@
+# HTML and Web Page Structure
+When considering how to build a website, understanding how people will use the website is very important. The first step in the process is to consider who will visit the site and how they will interact with it. 
