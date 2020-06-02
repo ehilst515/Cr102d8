@@ -3,6 +3,7 @@
 - [Growth Mindset](/growthms.md)
 - [Learn about GitHub](/githubinfo.md)
 - [Coder Computer](/codercomputer.md)
+- [Revisions and the Cloud](/revisionsandcloud.md)
 
 
 # About Me
