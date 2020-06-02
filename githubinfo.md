@@ -2,7 +2,7 @@
 ###### GitHub is a website where code files can be stored and revised.
 
 ### GitHub Pages
-**Pages** on GitHub are hosted on their servers and use thier databases. It makes it easy to create websites that anyone can access this way, and publish *markdowns* and other code files.
+**Pages** on GitHub are hosted on their servers and use their databases. It makes it easy to create websites that anyone can access this way, and publish *markdowns* and other code files.
 
 ### Markdown
 **Markdown** is a way of writing and styling text in a webpage. It uses a *syntax* that makes it easier to write content instead of focusing on code. We would usually use codes like HTML, CSS and Java or JavaScript to build the framework of the website and control how it looks. GitHub makes it easy to make a webpage look nice by allowing users to choose themes that apply across all the GitHub webpages.
