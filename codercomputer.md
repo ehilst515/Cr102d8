@@ -9,7 +9,7 @@ Text editors allow users what they sound like; they help edit text. However, not
 
 * Extensions: plug-ins that give the text editors abilities for users to have more automation 
 
-*Software developers need to be thoughtful about what text editor to use by considering what preferences they have for features. 
+*Software developers need to be thoughtful about what text editor to use by considering what preferences they have for features.* 
 
 * The Command Line: where code is typed in; the terminal 
 
