@@ -11,12 +11,38 @@ Answer the true or false questions:
 
 1. Changes are staged before they're moved from the working directory to the repository
 
-True () False ()
+- [ ] True 
+- [ ] False
 
 2. A message must be included when commiting changes
 
-True () False ()
+- [ ] True 
+- [ ] False
 
 3. Changes can be made without pusing to the repo
 
-True () False ()
+- [ ] True 
+- [ ] False
+
+#### The Answers are below! 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+1. True
+2. True
+3. False
