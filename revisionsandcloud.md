@@ -14,12 +14,12 @@ Answer the true or false questions:
 - [ ] True 
 - [ ] False
 
-2. A message must be included when commiting changes
+2. A message must be included when committing changes
 
 - [ ] True 
 - [ ] False
 
-3. Changes can be made without pusing to the repo
+3. Changes can be made without pushing to the repo
 
 - [ ] True 
 - [ ] False
