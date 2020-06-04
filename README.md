@@ -7,7 +7,8 @@
 - [HTML and Web Page Structure](/HTML.md)
 - [Design web pages with CSS](/CSS.md)
 - [JavaScript](/javascript.md)
-- [Computer Architecture and Logic](computers.md)
+- [Computer Architecture and Logic](/computers.md)
+- [Programming with JavaScript](/programJS.md)
 
 
 # About Me
