@@ -9,6 +9,7 @@
 - [JavaScript](/javascript.md)
 - [Computer Architecture and Logic](/computers.md)
 - [Programming with JavaScript](/programJS.md)
+- [Operators and Loops](/opsAndLoops.md)
 
 
 # About Me
