@@ -1,5 +1,5 @@
 # Table of Contents
-- [About Me](/aboutme.md)
+#### 102 Class Journal
 - [Growth Mindset](/growthms.md)
 - [Learn about GitHub](/githubinfo.md)
 - [Coder Computer](/codercomputer.md)
@@ -10,6 +10,9 @@
 - [Computer Architecture and Logic](/computers.md)
 - [Programming with JavaScript](/programJS.md)
 - [Operators and Loops](/opsAndLoops.md)
+
+#### 201 Class Journal
+- [HTML Text, CSS Introduction, and Basic JavaScript Instructions](/201Read2.md)
 
 
 # About Me
