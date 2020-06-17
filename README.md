@@ -13,6 +13,7 @@
 
 #### 201 Class Journal
 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions](/201Read2.md)
+- [HTML Lists, CSS Boxes, JS Control Flow](/201Read3.md)
 
 
 # About Me
