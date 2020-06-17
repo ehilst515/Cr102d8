@@ -46,5 +46,3 @@ iowaCities[2] = 'Ames'
 // Assign variable cycloneCity to the third value in the array
 var cycloneCity = iowaCities[2]
 ```
-## Boxes
-
