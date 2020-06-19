@@ -12,6 +12,7 @@
 - [Operators and Loops](/opsAndLoops.md)
 
 #### 201 Class Journal
+- [Introductory HTML and JavaScript](/201Read1.md)
 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions](/201Read2.md)
 - [HTML Lists, CSS Boxes, JS Control Flow](/201Read3.md)
 - [HTML Links, CSS Layout, JS Functions](/201Read4.md))
