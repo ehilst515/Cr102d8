@@ -15,9 +15,9 @@
 - [Introductory HTML and JavaScript](/201Read1.md)
 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions](/201Read2.md)
 - [HTML Lists, CSS Boxes, JS Control Flow](/201Read3.md)
-- [HTML Links, CSS Layout, JS Functions](/201Read4.md))
-- [Images, Color, Text](/201Read5.md))
-- [JS Object Literals; The DOM](/201Read6.md))
+- [HTML Links, CSS Layout, JS Functions](/201Read4.md)
+- [Images, Color, Text](/201Read5.md)
+- [JS Object Literals; The DOM](/201Read6.md)
 
 
 # About Me
