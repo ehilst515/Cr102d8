@@ -19,6 +19,7 @@
 - [Images, Color, Text](/201Read5.md)
 - [JS Object Literals; The DOM](/201Read6.md)
 - [HTML Tables; JS Constructor Functions](/201Read7.md)
+- [More CSS Layout](/201Read8.md)
 
 
 # About Me
