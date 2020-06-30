@@ -22,6 +22,7 @@
 - [More CSS Layout](/201Read8.md)
 - [Error Handling & Debugging](/201Read9.md)
 - [Audio, Video, Images](201Read11.md)
+- [Chart.js, Canvas](201Read12.md)
 
 # About Me
 ### Enrique Hilst
