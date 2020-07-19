@@ -1,5 +1,5 @@
-# Table of Contents
-#### 102 Class Journal
+# Reading Notes
+## Code 102 - Intro to Software Development
 - [Growth Mindset](/growthms.md)
 - [Learn about GitHub](/githubinfo.md)
 - [Coder Computer](/codercomputer.md)
@@ -11,7 +11,7 @@
 - [Programming with JavaScript](/programJS.md)
 - [Operators and Loops](/opsAndLoops.md)
 
-#### 201 Class Journal
+## Code 201 - Foundations of Software Development
 - [Introductory HTML and JavaScript](/201Read01.md)
 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions](/201Read02.md)
 - [HTML Lists, CSS Boxes, JS Control Flow](/201Read03.md)
@@ -27,10 +27,11 @@
 - [CSS Transforms, Transitions, and Animations](201Read14a.md)
 - [What Google Learned About Teams](201Read14b.md)
 
+## Code 301 - Intermediate Software Development
 
 
 # About Me
 ### Enrique Hilst
-![Profile Picture](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/38016088_10156574294158659_7291765440995393536_o.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=9SifMiqRKh8AX9DxEax&_nc_ht=scontent-ort2-2.xx&oh=b59f663176e200073bfb27fb21df4fa5&oe=5EF92895)
+![Profile Picture](profilepic.jpg)
 
 Hello, I am an industrial engineer working on changing career paths into coding.
