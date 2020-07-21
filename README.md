@@ -29,6 +29,7 @@
 
 ## Code 301 - Intermediate Software Development
  - [Responsive Web Design and Floats](301Read01.md)
+ - [jQuery and Pair Programming](301Read02.md)
 
 # About Me
 ### Enrique Hilst
