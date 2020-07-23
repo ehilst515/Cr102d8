@@ -1,15 +1,15 @@
 # Reading Notes
 ## Code 102 - Intro to Software Development
-- [Growth Mindset](/growthms.md)
-- [Learn about GitHub](/githubinfo.md)
-- [Coder Computer](/codercomputer.md)
-- [Revisions and the Cloud](/revisionsandcloud.md)
-- [HTML and Web Page Structure](/HTML.md)
-- [Design web pages with CSS](/CSS.md)
-- [JavaScript](/javascript.md)
-- [Computer Architecture and Logic](/computers.md)
-- [Programming with JavaScript](/programJS.md)
-- [Operators and Loops](/opsAndLoops.md)
+- [Growth Mindset](102/growthms.md)
+- [Learn about GitHub](102/githubinfo.md)
+- [Coder Computer](102/codercomputer.md)
+- [Revisions and the Cloud](102/revisionsandcloud.md)
+- [HTML and Web Page Structure](102/HTML.md)
+- [Design web pages with CSS](102/CSS.md)
+- [JavaScript](102/javascript.md)
+- [Computer Architecture and Logic](102/computers.md)
+- [Programming with JavaScript](102/programJS.md)
+- [Operators and Loops](102/opsAndLoops.md)
 
 ## Code 201 - Foundations of Software Development
 - [Introductory HTML and JavaScript](/201Read01.md)
