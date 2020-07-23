@@ -28,9 +28,9 @@
 - [What Google Learned About Teams](201/201Read14b.md)
 
 ## Code 301 - Intermediate Software Development
- - [Responsive Web Design and Floats](301Read01.md)
- - [jQuery and Pair Programming](301Read02.md)
- - [Mustache and Flexbox](301Read03.md)
+ - [Responsive Web Design and Floats](301/301Read01.md)
+ - [jQuery and Pair Programming](301/301Read02.md)
+ - [Mustache and Flexbox](301/301Read03.md)
 
 # About Me
 ### Enrique Hilst
