@@ -31,6 +31,7 @@
  - [Responsive Web Design and Floats](301/301Read01.md)
  - [jQuery and Pair Programming](301/301Read02.md)
  - [Mustache and Flexbox](301/301Read03.md)
+ - [Responsive Web Design and Regular Expressions](301/301Read04.md)
 
 # About Me
 ### Enrique Hilst
