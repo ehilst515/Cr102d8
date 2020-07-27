@@ -33,6 +33,8 @@
  - [Mustache and Flexbox](301/301Read03.md)
  - [Responsive Web Design and Regular Expressions](301/301Read04.md)
  - [Heroku](301/301Read05.md)
+ - [Node](301/301Read06.md)
+ 
 
 # About Me
 ### Enrique Hilst
