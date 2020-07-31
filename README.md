@@ -36,6 +36,7 @@
  - [Node](301/301Read06.md)
  - [APIs](301/301Read07.md)
  - [Refactoring](301/301Read09.md)
+ - [The Call Stack and JavaScript Errors](301/301Read10.md)
  
 
 # About Me
