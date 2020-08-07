@@ -37,11 +37,12 @@
  - [APIs](301/301Read07.md)
  - [Refactoring](301/301Read09.md)
  - [The Call Stack and JavaScript Errors](301/301Read10.md)
-  -[Sending Form Data](301/301Read13.md)
+ - [Sending Form Data](301/301Read13.md)
+ - [Diversity and Inclusion](301/301Read15.md)
  
 
 # About Me
 ### Enrique Hilst
 ![Profile Picture](profilepic.jpg)
 
-Hello, I am an industrial engineer working on changing career paths into coding.
+Hello, I am an industrial engineer changing career paths into coding.
