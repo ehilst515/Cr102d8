@@ -41,6 +41,11 @@
  - [Diversity and Inclusion](301/301Read15.md)
  
 
+ ## Code 401 - Advanced Software Development in ASP.NET Core
+ - [Exception Handling](401/401Read01.md)
+ 
+
+
 # About Me
 ### Enrique Hilst
 ![Profile Picture](profilepic.jpg)
