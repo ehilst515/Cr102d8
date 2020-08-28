@@ -41,7 +41,7 @@
  - [Diversity and Inclusion](301/301Read15.md)
  
 
- ## Code 401 - Advanced Software Development in `ASP.NET` Core
+ ## Code 401 - Advanced Software Development in ASP DOTNET Core
  - [Exception Handling](401/401Read01.md)
  - [Unit Tests & Documentation](401/401Read02.md)
  - [System.I.O](401/401Read03.md)
