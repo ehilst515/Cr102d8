@@ -49,6 +49,7 @@
  - [Interfaces](401/401Read06.md)
  - [Collections & Enum](401/collections.md)
  - [Stacks & Queues](401/StacksAndQueues.md)
+ - [Intro to ERD](401/ERD.md)
 
 
 # About Me
