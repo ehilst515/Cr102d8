@@ -50,6 +50,7 @@
  - [Collections & Enum](401/collections.md)
  - [Stacks & Queues](401/StacksAndQueues.md)
  - [Intro to ERD](401/ERD.md)
+ - [EF Core & APIs](401/API.md)
 
 
 # About Me
