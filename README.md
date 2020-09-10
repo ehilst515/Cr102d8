@@ -1,5 +1,7 @@
 # Reading Notes
+
 ## Code 102 - Intro to Software Development
+
 - [Growth Mindset](102/growthms.md)
 - [Learn about GitHub](102/githubinfo.md)
 - [Coder Computer](102/codercomputer.md)
@@ -12,6 +14,7 @@
 - [Operators and Loops](102/opsAndLoops.md)
 
 ## Code 201 - Foundations of Software Development
+
 - [Introductory HTML and JavaScript](201/201Read01.md)
 - [HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/201Read02.md)
 - [HTML Lists, CSS Boxes, JS Control Flow](201/201Read03.md)
@@ -28,33 +31,38 @@
 - [What Google Learned About Teams](201/201Read14b.md)
 
 ## Code 301 - Intermediate Software Development
- - [Responsive Web Design and Floats](301/301Read01.md)
- - [jQuery and Pair Programming](301/301Read02.md)
- - [Mustache and Flexbox](301/301Read03.md)
- - [Responsive Web Design and Regular Expressions](301/301Read04.md)
- - [Heroku](301/301Read05.md)
- - [Node](301/301Read06.md)
- - [APIs](301/301Read07.md)
- - [Refactoring](301/301Read09.md)
- - [The Call Stack and JavaScript Errors](301/301Read10.md)
- - [Sending Form Data](301/301Read13.md)
- - [Diversity and Inclusion](301/301Read15.md)
- 
 
- ## Code 401 - Advanced Software Development in ASP DOTNET Core
- - [Exception Handling](401/401Read01.md)
- - [Unit Tests & Documentation](401/401Read02.md)
- - [System.I.O](401/401Read03.md)
- - [Linked Lists](401/401Read05.md)
- - [Interfaces](401/401Read06.md)
- - [Collections & Enum](401/collections.md)
- - [Stacks & Queues](401/StacksAndQueues.md)
- - [Intro to ERD](401/ERD.md)
- - [EF Core & APIs](401/API.md)
+- [Responsive Web Design and Floats](301/301Read01.md)
+- [jQuery and Pair Programming](301/301Read02.md)
+- [Mustache and Flexbox](301/301Read03.md)
+- [Responsive Web Design and Regular Expressions](301/301Read04.md)
+- [Heroku](301/301Read05.md)
+- [Node](301/301Read06.md)
+- [APIs](301/301Read07.md)
+- [Refactoring](301/301Read09.md)
+- [The Call Stack and JavaScript Errors](301/301Read10.md)
+- [Sending Form Data](301/301Read13.md)
+- [Diversity and Inclusion](301/301Read15.md)
 
+## Code 401 - Advanced Software Development in ASP DOTNET Core
 
-# About Me
+- [Exception Handling](401/401Read01.md)
+- [Unit Tests & Documentation](401/401Read02.md)
+- [System.I.O](401/401Read03.md)
+- [Linked Lists](401/401Read05.md)
+- [Interfaces](401/401Read06.md)
+- [Collections & Enum](401/collections.md)
+- [Stacks & Queues](401/StacksAndQueues.md)
+- [Intro to ERD](401/ERD.md)
+- [EF Core & APIs](401/API.md)
+- [Dependency Injection & Repository Design Pattern](401/DesignPattern.md)
+
+---
+
+## About Me
+
 ### Enrique Hilst
+
 ![Profile Picture](profilepic.jpg)
 
 Hello, I am an industrial engineer changing career paths into coding.
