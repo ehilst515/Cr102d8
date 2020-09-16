@@ -56,6 +56,7 @@
 - [Intro to ERD](401/ERD.md)
 - [EF Core & APIs](401/API.md)
 - [Dependency Injection & Repository Design Pattern](401/DesignPattern.md)
+- [Identity](401/Identity.md)
 
 ---
 
